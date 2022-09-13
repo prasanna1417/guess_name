@@ -1,6 +1,5 @@
 ********* Welcome To Guess Game *********
 
-This is task1 project for UNIcompiler internship.
 #This game is written in python
 #Random,sympy modules are used in it.
 1.Here the game is between player1 and player2.
